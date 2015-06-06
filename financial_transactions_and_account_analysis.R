@@ -1,4 +1,4 @@
-# Task 1 timeseries
+# Loading libraries used later
 library(xts)
 library(quantmod)
 
